@@ -29,6 +29,6 @@
   <a href="https://gemini.google.com/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/b4343dc9-1f75-41ce-9d9d-23b390a9fe2d" alt="gemini" width="40" height="40" style="margin-right:10px;"/></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerimdemirkaynak&show_icons=true&locale=en&layout=compact" alt="kerimdemirkaynak" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerimdemirkaynak&show_icons=true&locale=en&layout=compact&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true" alt="kerimdemirkaynak" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kerimdemirkaynak&show_icons=true&locale=en" alt="kerimdemirkaynak" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kerimdemirkaynak&show_icons=true&locale=en&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&hide_border=true" alt="kerimdemirkaynak" /></p>
