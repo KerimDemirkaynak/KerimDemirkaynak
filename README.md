@@ -3,15 +3,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://kerimdemirkaynak.github.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Samsung_Internet_Logo.png" alt="Website" height="30" width="30" style="margin-right:10px;"/></a>
 <a href="https://instagram.com/kerimdemirkaynak" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="30" style="margin-right:10px;"/></a>
 <a href="https://www.facebook.com/xDemirkaynak" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="30" style="margin-right:10px;"/></a>
 <a href="http://x.com/KDxOFFICIAL" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="x" height="30" width="30" style="margin-right:10px;"/></a>
 <a href="https://mastodon.social/@Kerm" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Mastodon_Logotype_%28Simple%29.svg" alt="Mastodon" height="30" width="30" style="margin-right:10px;"/></a>
 <a href="https://bsky.app/profile/kerimdemirkaynak.github.io" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Bluesky_Logo.svg" alt="Bluesky" height="30" width="30" style="margin-right:10px;"/></a>
-<a href="https://youtube.com/@KerimDemirkaynak?sub_confirmation=1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="30" style="margin-right:10px;"/></a>
 <a href="https://myanimelist.net/profile/KerimDemirkaynak" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/MyAnimeList_Logo.png" alt="MyAnimeList" height="30" width="30" style="margin-right:10px;"/></a>
 <a href="https://tr.m.wikipedia.org/wiki/Kullan%C4%B1c%C4%B1:Kerim_Demirkaynak" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Wikipedia-logo-v2.svg" alt="Wikipedia" height="30" width="30" style="margin-right:10px;"/></a>
+<a href="https://youtube.com/@KerimDemirkaynak?sub_confirmation=1" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="30" style="margin-right:10px;"/></a>
 </p>
 
 
