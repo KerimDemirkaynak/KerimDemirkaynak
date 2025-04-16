@@ -39,6 +39,21 @@
   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg" alt="illustrator" width="40" height="40"/>
   </a>
+
+  <!-- Pixellab -->
+  <a href="https://play.google.com/store/apps/details?id=com.imaginstudio.imagetools.pixellab&hl=tr" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/e7d46fa5-4a6d-4b61-bcbd-71969d83fd6e" alt="pixellab" width="40" height="40"/>
+  </a>
+
+  <!-- PicsArt -->
+  <a href="https://picsart.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/f9034a8f-3706-415f-ab17-787430982077" alt="picsart" width="40" height="40"/>
+  </a>
+
+  <!-- CapCut -->
+  <a href="https://www.capcut.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/user-attachments/assets/d2ee3f01-c77d-4a3b-9c2e-f43c6dabea13" alt="capcut" width="40" height="40"/>
+  </a>
   
   <!-- Ren'Py -->
   <a href="https://www.renpy.org/" target="_blank" rel="noreferrer">
@@ -47,20 +62,14 @@
 
  <!-- ChatGPT -->
   <a href="https://openai.com/chatgpt" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" alt="chatgpt" width="40" height="40"/>
+    <img src="https://github.com/user-attachments/assets/737e2cb5-39cd-422a-a43c-2a3ecbee5353" alt="chatgpt" width="40" height="40"/>
   </a>
 
-  <!-- CapCut -->
-  <a href="https://www.capcut.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/d2ee3f01-c77d-4a3b-9c2e-f43c6dabea13" alt="capcut" width="40" height="40"/>
-  </a>
-
-  <!-- Pixellab -->
-  <a href="https://play.google.com/store/apps/details?id=com.imaginstudio.imagetools.pixellab&hl=tr" target="_blank" rel="noreferrer">
-    <img src="https://github.com/user-attachments/assets/e7d46fa5-4a6d-4b61-bcbd-71969d83fd6e" alt="pixellab" width="40" height="40"/>
-  </a>
+<!-- Google Gemini -->
+<a href="https://gemini.google.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/user-attachments/assets/b4343dc9-1f75-41ce-9d9d-23b390a9fe2d" alt="gemini" width="40" height="40"/>
+</a>
 </p>
-
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerimdemirkaynak&show_icons=true&locale=en&layout=compact" alt="kerimdemirkaynak" /></p>
 
